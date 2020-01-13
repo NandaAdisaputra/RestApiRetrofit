@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RestApiRetrofit</string>
+    <string name="pesan">Pesan</string>
+</resources>
